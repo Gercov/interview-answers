@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "format": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tednaaa/interview-answers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tednaaa/interview-answers/issues"
+  },
+  "homepage": "https://github.com/tednaaa/interview-answers#readme"
+}
